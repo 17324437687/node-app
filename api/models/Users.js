@@ -18,6 +18,10 @@ let UserSchema = new Schema({
     avatar: {
         type: String,
     },
+    identity: {
+        type: String,
+        required: true
+    },
     date: {
         type: String,
         default: Date.now
