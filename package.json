@@ -1,0 +1,19 @@
+{
+  "name": "03node_app",
+  "version": "1.0.0",
+  "description": "",
+  "main": "",
+  "scripts": {
+    "test": ""
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/17324437687/node-app.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+   
+  }
+
+}
